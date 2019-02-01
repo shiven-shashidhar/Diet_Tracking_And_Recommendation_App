@@ -1,0 +1,13 @@
+<Profiles>
+<Profile>
+<Gender>Male</Gender>
+<Age>85</Age>
+<Weight>65</Weight>
+<Height>150</Height>
+<PhysicalActivityLevel>1.1</PhysicalActivityLevel>
+<IngredientsToWatch>
+<Ingredient>sugar</Ingredient>
+<Ingredient>salt</Ingredient>
+</IngredientsToWatch>
+</Profile>
+</Profiles>
